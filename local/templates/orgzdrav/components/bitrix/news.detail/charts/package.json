@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jquery-easyui": "^1.5.21",
+    "jquery-serializejson": "^3.2.1"
+  }
+}

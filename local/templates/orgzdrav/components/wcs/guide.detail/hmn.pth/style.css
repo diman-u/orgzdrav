@@ -1,0 +1,12 @@
+.tippy-box[data-theme~='orgzdrav'] {
+	background-color: white;
+	color: black;
+}
+.tippy-box .card {
+	max-width: 320px;
+}
+
+.js-attache-img {
+	cursor: pointer;
+}
+

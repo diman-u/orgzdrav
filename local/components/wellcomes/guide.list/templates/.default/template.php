@@ -1,0 +1,1 @@
+<?= count($arResult['ITEMS']) ?>
